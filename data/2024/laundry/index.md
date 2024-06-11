@@ -62,11 +62,8 @@ Then, we noticed an `amount` parameter in the request...
 
 So... what happens if you run the machine with `amount` set to 0?
 
-<div>
-	{%- include extensions/youtube.html 
-		id='yXTj9JzYOrE' 
-		title='CSC GO - Machine Proof of Concept' 
-	-%}
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+	<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/yXTj9JzYOrE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ...yeah.
