@@ -4,6 +4,7 @@ date: 2024-05-20
 categories:
   - Security Research
 authors:
+  - cabalex
   - fbad
 ---
 
