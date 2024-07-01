@@ -30,7 +30,7 @@ This year, Slug Security had 15 participants divided into 3 student-led teams. T
 - Team #128 - "*Cyber Slugs*" 
 
 ### This Year's Challenge
-The competition had two parts: attack and defend and [Capture The Flag](/about/faqs#what-is-a-ctf-competition). The attack and defend portion focused on a simulated cyberattack on a solar-powered electric vehicle manufacturing plant owned by "Vita Vehiculum". They recently acquired a solar and energy storage company called "Sole-Zon-Solis" and conflicted with a rival firm. Participants were responsible for evaluating the infrastructure, new acquisition, and threat landscape to safeguard the company's assets.
+The competition had two parts: attack and defend and [Capture The Flag](/src/about/faqs.md#what-is-a-ctf-competition). The attack and defend portion focused on a simulated cyberattack on a solar-powered electric vehicle manufacturing plant owned by "Vita Vehiculum". They recently acquired a solar and energy storage company called "Sole-Zon-Solis" and conflicted with a rival firm. Participants were responsible for evaluating the infrastructure, new acquisition, and threat landscape to safeguard the company's assets.
 
 As part of the process, it was essential to create customized documentation for the company's executives, along with a realistic plan for the security team to implement. Participants had to assess the current infrastructure using different network scans and vulnerability assessments while ensuring access to critical services and devices. This dynamic and engaging challenge provided students with the opportunity to demonstrate their skills and knowledge in a realistic, hands-on blue team scenario.
 
