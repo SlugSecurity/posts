@@ -11,7 +11,7 @@ We’re excited to announce an incredible opportunity for select Slug Security m
 
 <!-- more -->
 
-If you’re interested, please fill out the [Google form](forms.gle/ZzdNcWfMfenGAs5H8) (UCSC SSO) and feel free to reach out to us (via [slugsec@ucsc.edu](mailto:slugsec@ucsc.edu)) if you have any questions about the program.
+If you’re interested, please fill out the [Google form](https://forms.gle/ZzdNcWfMfenGAs5H8) (UCSC SSO) and feel free to reach out to us (via [slugsec@ucsc.edu](mailto:slugsec@ucsc.edu)) if you have any questions about the program.
 
 !!! Question "FAQs"
 	To keep things rolling, we will be closing the application on Friday, Febuary 28th, 2025 at midnight.
