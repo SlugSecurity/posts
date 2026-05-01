@@ -16,8 +16,9 @@ For any developers out there, we have a simple message for you:
 
 ![Don't Trust The Client](_assets/dont-trust-the-client.png "First rule of software development")
 
-!!! note "Disclosure Notice"
-	This research was done in good faith. Originally discovered in January of 2024, we’ve attempted to contact the vendor multiple times over the span of 5 months with no sign of a response. In addition, proper disclosure was made to the [CERT Collaboration Center](https://kb.cert.org), with a public disclosure date of late March.
+:::note{title="Disclosure Notice"}
+This research was done in good faith. Originally discovered in January of 2024, we’ve attempted to contact the vendor multiple times over the span of 5 months with no sign of a response. In addition, proper disclosure was made to the [CERT Collaboration Center](https://kb.cert.org), with a public disclosure date of late March.
+:::
 
 ## Initial Snooping
 So, what started all of this? Best way to describe it is why we do anything: boredom and curiosity. We find it fascinating to see how people (or companies) build out these types of systems, and hey, maybe there's some interesting logic going on behind the scenes. It’s fun to take apart some of the apps we use every day and envision how we can make them better. Alex was personally trying to make an app as a side project to track the status of laundry machines on campus - and perhaps, maybe we’d find an interesting story to tell.
@@ -101,13 +102,13 @@ Basically passing in the following information (and our account’s authenticati
 
 We get this amazing result:
 
-![Wallet After Deposit](_assets/wallet-after-deposit.png "First generational laundry millionaire"){ width="50%" }
+![Wallet After Deposit](_assets/wallet-after-deposit.png "First generational laundry millionaire")(style: "width: 50%")
 
 And for those scared by seeing such a large amount of money next to a dollar sign, it's not real. You can’t do much with this other than pay for laundry. Yes, I’ve become the first generational laundry millionaire, no, I cannot buy a house with it. 
 
 We’ve noticed that giving yourself such large amounts of laundry bucks™ must cause some confusion when a financial analyst is looking at the state of the economy for their laundry ecosystem, since we had the money taken away 3 days later:
 
-![Wallet History](_assets/wallet-history.png "They took my money away :("){ width="60%" }
+![Wallet History](_assets/wallet-history.png "They took my money away :(")(style: "width: 60%")
 
 Injecting more realistic amounts such as $50 or $100, however, seems to fly under their radar. Our test transactions with smaller denominations are still present 5 months later.
 

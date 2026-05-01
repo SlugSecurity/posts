@@ -7,7 +7,7 @@ authors:
   - fbad
 ---
 
-Our introduction to CTF competitions course (season 3:material-trademark:) is returning once again for Spring Quarter 2025! (tentative schedule TuTh 5:20-6:55pm w/ section F 1:20-2:25pm in BE-97)
+Our introduction to CTF competitions course (season 3™) is returning once again for Spring Quarter 2025! (tentative schedule TuTh 5:20-6:55pm w/ section F 1:20-2:25pm in BE-97)
 
 *TL:DR - Learn how to hack and compete in cybersecurity competitions, all while earning course credits*
 

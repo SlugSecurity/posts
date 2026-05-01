@@ -13,10 +13,11 @@ We’re excited to announce an incredible opportunity for select Slug Security m
 
 If you’re interested, please fill out the [Google form](https://forms.gle/ZzdNcWfMfenGAs5H8) (UCSC SSO) and feel free to reach out to us (via [slugsec@ucsc.edu](mailto:slugsec@ucsc.edu)) if you have any questions about the program.
 
-!!! Question "FAQs"
-	To keep things rolling, we will be closing the application on Friday, Febuary 28th, 2025 at midnight.
+:::question{title="FAQs"}
+To keep things rolling, we will be closing the application on Friday, Febuary 28th, 2025 at midnight.
 
-    We've only got a handful of certificates available, so make sure you put thought into your application - you're competing against others for a spot!
+We've only got a handful of certificates available, so make sure you put thought into your application - you're competing against others for a spot!
+:::
 
 Certificates such as INE’s eJPT provide a structured way to learn specialized skills through focused courses and exams. Certification exams can range from multiple-choice questions to full virtual environments where you must demonstrate your skills hands-on. This pathway gives students a chance to gain industry-relevant experience when the job market might not offer it. At UCSC, where there isn’t a dedicated Cybersecurity degree, certifications can bridge a technical major (like Computer Science) with hands-on cybersecurity experience.
 

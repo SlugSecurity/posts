@@ -17,14 +17,14 @@ Held annually, MITRE's Embedded Capture the Flag (eCTF) competition is an intern
 
 This year's competition drew over 540 participants from 80 schools and ran from January 18th to April 19th.
 
-![eCTF 2023 Timeline](_assets/ectf_timeline.png "Competition takes place over multiple months")
+![eCTF 2023 Timeline](_assets/ectf_timeline.png "Competition takes place over multiple months")(class: "invert")
 
 ### Team Highlights
 Our team consisted of 10 students, with 9 undergraduates and 1 graduate student, from a variety of majors including Computer Science, Computer Engineering, and Economics. Under the guidance of Professor [Alvaro A. Cardenas](https://users.soe.ucsc.edu/~alacarde/), we were able to secure 2nd place in the competition, earning a total of 17,100 points. We were beaten by Carnegie Mellon University, who claimed 1st place with 28,100 points, but we managed to stay ahead of the University of Illinois at Urbana-Champaign, who earned 12,500 points.
 
 Our greatest accomplishment was successfully protecting our system against all attacks, making us one of only two teams to achieve an unbreakable system design, alongside CMU.
 
-![eCTF 2023 Attack Board](_assets/challenge_board.png "As you can see we're unpwnable :D")
+![eCTF 2023 Attack Board](_assets/challenge_board.png "As you can see we're unpwnable :D")(class: "invert")
 
 ### Competition Writeup
 As part of the competition, to validate attacks and defenses, teams were required to submit brief writeups. Currently, we are working on reformatting our documents for public release.
