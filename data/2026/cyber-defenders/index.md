@@ -7,8 +7,9 @@ authors:
   - fbad
 ---
 
-!!! quote "Reposted from UCSC ITS News"
-	This article was originally written and published by UCSC Information Technology Services on March 3, 2026. Read the original at [its.ucsc.edu](https://its.ucsc.edu/its-news/the-next-generation-of-cyber-defenders/). Reproduced here with full credit to the original authors.
+:::quote{title="Reposted from UCSC ITS News"}
+This article was originally written and published by UCSC Information Technology Services on March 3, 2026. Read the original at [its.ucsc.edu](https://its.ucsc.edu/its-news/the-next-generation-of-cyber-defenders/). Reproduced here with full credit to the original authors.
+:::
 
 On a typical Saturday in Baskin Engineering, UCSC students are catching up on homework or studying for exams. But on February 7, one room told a very different story. Eight students sat at the helm of a live IT command center, managing a complex network while fending off relentless simulated cyberattacks. For Slug Security, this was just another day on the job.
 
